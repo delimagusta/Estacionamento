@@ -1,0 +1,14 @@
+C:\C#\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.1\Estacionamento.deps.json
+C:\C#\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.1\Estacionamento.runtimeconfig.json
+C:\C#\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.1\Estacionamento.runtimeconfig.dev.json
+C:\C#\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.1\Estacionamento.dll
+C:\C#\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.1\Estacionamento.pdb
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.csprojAssemblyReference.cache
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.csproj.CoreCompileInputs.cache
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.RazorAssemblyInfo.cache
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.RazorAssemblyInfo.cs
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.AssemblyInfoInputs.cache
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.AssemblyInfo.cs
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.RazorTargetAssemblyInfo.cache
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.dll
+C:\C#\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.1\Estacionamento.pdb
